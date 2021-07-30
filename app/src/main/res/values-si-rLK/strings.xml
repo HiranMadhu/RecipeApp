@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoockiAppSecond</string>
+    <string name="menu_home">වට්ටෝරු</string>
+    <string name="action_settings">සැකසුම්</string>
+    <string name="menu_add">තමන්ගේම වට්ටෝරුව එක් කරන්න</string>
+    <string name="menu_shop">බඩු ලැයිස්තුව</string>
+    <string name="menu_more">තව</string>
+    <string name="addNameLable">නම</string>
+    <string name="addMainTitle">ඔබේම වට්ටෝරුව එක් කරන්න</string>
+    <string name="addButtonLable">වට්ටෝරුව එක් කරන්න</string>
+    <string name="addCaloriesLable">ආහාර වේලකට කැලරි:</string>
+    <string name="minimum">අවම</string>
+    <string name="addCookTimeLable">උයන්න කාලය</string>
+    <string name="addPrapareTimeLable">සූදානම් කරන්න කාලය</string>
+    <string name="addDirectionHint">ආහාරය සාදා ගන්නා ආකාරය ඇතුළත් කරන්න</string>
+    <string name="addNote">අමතර සටහන්</string>
+    <string name="addDirectionLable">හදන හැටි</string>
+    <string name="addIngredieantsEdit">නම ඇතුළත් කරන්න</string>
+    <string name="addAmountEdit">ප්‍රමාණය ඇතුළත් කරන්න</string>
+    <string name="addAmountLable">ප්‍රමාණය</string>
+    <string name="addIngredientsLable">අමුද්රව්ය</string>
+    <string name="addNameEdit">වට්ටෝරුවේ නම යොදන්න</string>
+    <string name="resDnutritionLable">පෝෂණය</string>
+    <string name="resDnoteLable">සටහන්</string>
+    <string name="resDdirectionLable">සාදන ක්‍රමය</string>
+    <string name="resDingredientsLable">අමුද්රව්ය</string>
+    <string name="resDmorePhotoLable">ඡායාරූප</string>
+    <string name="add">Add</string>
+    <string name="shoppingIngrentEdit">අමුද්රව්ය ටයිප් කරන්න</string>
+    <string name="save">සුරකින්න</string>
+    <string name="clearAll">Clear all</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="menu_item1">අන්තර්ජාලය සොයන්න</string>
+    <string name="api_serch">" අන්තර්ජාලය හරහා වට්ටෝරු සෙවීමට නම ටයිප් කරන්න"</string>
+    <string name="api_hint_serchbar">නමක් ටයිප් කරන්න (උදා: කුකුල් මස්)</string>
+    <string name="api_serch_buttton">සොයන්න</string>
+</resources>

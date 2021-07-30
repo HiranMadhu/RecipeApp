@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CoockiAppSecond</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_add">Add Own Recipe</string>
+    <string name="menu_shop">Shopping list</string>
+    <string name="menu_more">More</string>
+    <string name="addNameLable">Name :</string>
+    <string name="addMainTitle">Add your OWN recipe</string>
+    <string name="addButtonLable">Add Recipe</string>
+    <string name="addCaloriesLable">Calories per serving :</string>
+    <string name="minimum">min</string>
+    <string name="addCookTimeLable">Cook time</string>
+    <string name="addPrapareTimeLable">Prepare time</string>
+    <string name="addDirectionHint">Enter how to make the dish</string>
+    <string name="addNote">Extra notes</string>
+    <string name="addDirectionLable">Set the Directions</string>
+    <string name="addIngredieantsEdit">Enter name</string>
+    <string name="addAmountEdit">Enter Amount</string>
+    <string name="addAmountLable">Amount</string>
+    <string name="addIngredientsLable">Ingredients</string>
+    <string name="addNameEdit">Enter the name of recipe</string>
+    <string name="resDnutritionLable">Nutrition</string>
+    <string name="resDnoteLable">Footnotes</string>
+    <string name="resDdirectionLable">Directions</string>
+    <string name="resDingredientsLable">Ingredients</string>
+    <string name="resDmorePhotoLable">More photos</string>
+    <string name="add">Add</string>
+    <string name="shoppingIngrentEdit">Type an ingredients</string>
+    <string name="save">Save</string>
+    <string name="clearAll">Clear All</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_item1">Search online</string>
+    <string name="appNameLable" translatable="false">Foodies Recipe</string>
+    <string name="appEmailLable" translatable="false">foodies@gmail.com</string>
+    <string name="languageMainLable" translatable="false">Select Language</string>
+    <string name="api_serch">Type name to search recipes over the internet</string>
+    <string name="api_hint_serchbar">Type a Name (ex: Chicken)</string>
+    <string name="api_serch_buttton">Search</string>
+</resources>
